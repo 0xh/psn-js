@@ -1,0 +1,25 @@
+{
+  "name": "psn-js",
+  "version": "0.1.0",
+  "description": "A Node.js wrapper for the PSN API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaTiemsz/psn-js.git"
+  },
+  "keywords": [
+    "psn"
+  ],
+  "author": "Tiemen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThaTiemsz/psn-js/issues"
+  },
+  "homepage": "https://github.com/ThaTiemsz/psn-js#readme",
+  "dependencies": {
+    "request-promise-native": "^1.0.4"
+  }
+}
